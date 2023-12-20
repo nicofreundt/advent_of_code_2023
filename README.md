@@ -29,7 +29,7 @@ Link: [Advent of Code](https://adventofcode.com/2023)
 | Day 17 | ✅ | ✅ | [--- Day 17: Clumsy Crucible ---](https://adventofcode.com/2023/day/17) | [Look at my code](/day17.py) |
 | Day 18 | ✅ | ✅ | [--- Day 18: Lavaduct Lagoon ---](https://adventofcode.com/2023/day/18) | [Look at my code](/day18.py) |
 | Day 19 | ✅ | ✅ | [--- Day 19: Aplenty ---](https://adventofcode.com/2023/day/19) | [Look at my code](/day19.py) |
-| Day 20 | ➖ | ➖ | [`--- Day 20: coming soon ---`](https://adventofcode.com/2023/day/20) | ➖ |
+| Day 20 | ✅ | ✅ | [--- Day 20: Pulse Propagation ---](https://adventofcode.com/2023/day/20) | [Look at my code](/day20.py) |
 | Day 21 | ➖ | ➖ | [`--- Day 21: coming soon ---`](https://adventofcode.com/2023/day/21) | ➖ |
 | Day 22 | ➖ | ➖ | [`--- Day 22: coming soon ---`](https://adventofcode.com/2023/day/22) | ➖ |
 | Day 23 | ➖ | ➖ | [`--- Day 23: coming soon ---`](https://adventofcode.com/2023/day/23) | ➖ |
